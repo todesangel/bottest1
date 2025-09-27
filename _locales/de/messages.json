@@ -1,0 +1,209 @@
+{
+   "TabChorus": {
+      "message": "Chor"
+   },
+   "TabConvolver": {
+      "message": "Convolver"
+   },
+   "TabEqualizer": {
+      "message": "Equalizer"
+   },
+   "TabLimiter": {
+      "message": "Begrenzer"
+   },
+   "TabPitch": {
+      "message": "Tonhöhe"
+   },
+   "Volume": {
+      "message": "Volumen"
+   },
+   "advancedLabel": {
+      "message": "Erweitert"
+   },
+   "attackLabel": {
+      "message": "Attacke"
+   },
+   "buttonAdvanced": {
+      "message": "Erweitert"
+   },
+   "buttonBypass": {
+      "message": "Bypass"
+   },
+   "buttonDelete": {
+      "message": "Löschen"
+   },
+   "buttonGotoTab": {
+      "message": "Gehe zu Tab"
+   },
+   "buttonLoad": {
+      "message": "Belastung"
+   },
+   "buttonOff": {
+      "message": "Abstellen"
+   },
+   "buttonReset": {
+      "message": "Zurücksetzen"
+   },
+   "buttonSave": {
+      "message": "Sparen"
+   },
+   "buttonTextPowerIcon": {
+      "message": "Erfassen Sie die aktuelle Registerkarte"
+   },
+   "chorusDelay": {
+      "message": "Verzögern"
+   },
+   "chorusDepth": {
+      "message": "Tiefe"
+   },
+   "chorusFeedback": {
+      "message": "Feedback"
+   },
+   "chorusRate": {
+      "message": "Bewertung"
+   },
+   "convolverDry": {
+      "message": "Trocken"
+   },
+   "convolverHighcut": {
+      "message": "HighCut"
+   },
+   "convolverLowcut": {
+      "message": "LowCut"
+   },
+   "convolverWet": {
+      "message": "Nass"
+   },
+   "copyright": {
+      "message": "Equalizer - AudioStudio"
+   },
+   "description": {
+      "message": "Equalizer für Ihr Chrome. Passen Sie Ihren Sound mit 10 Bands, Equalizer-Presets mit allen Musikgenres und einer Bass-Booster-Funktion an."
+   },
+   "dynamicsLabel": {
+      "message": "DYNAMIK"
+   },
+   "fullScreenMode": {
+      "message": "Vollbildmodus"
+   },
+   "info": {
+      "message": "info"
+   },
+   "instanceOpenAlready": {
+      "message": "Popup bereits in einem anderen Fenster geöffnet!"
+   },
+   "kneeLabel": {
+      "message": "Knie"
+   },
+   "labelPitch": {
+      "message": "Tonhöhe"
+   },
+   "loadPresetOnStartup": {
+      "message": "Preset beim Start laden"
+   },
+   "name": {
+      "message": "Equalizer für Chrome browser"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "offMessage": {
+      "message": "Audio Equalizer ist derzeit ausgeschaltet!"
+   },
+   "offTitle": {
+      "message": "Schalte den Strom an!"
+   },
+   "on": {
+      "message": "On"
+   },
+   "openOnClick": {
+      "message": "Auf Klick öffnen"
+   },
+   "powerButtonOn": {
+      "message": "On"
+   },
+   "powerOff": {
+      "message": "Off"
+   },
+   "presetAcoustic": {
+      "message": "Acoustic"
+   },
+   "presetBassBooster": {
+      "message": "Bass Booster"
+   },
+   "presetBassReducer": {
+      "message": "Bass Reducer"
+   },
+   "presetClassical": {
+      "message": "Classical"
+   },
+   "presetDance": {
+      "message": "Dance"
+   },
+   "presetDeep": {
+      "message": "Deep"
+   },
+   "presetElectronic": {
+      "message": "Electronic"
+   },
+   "presetHipHop": {
+      "message": "Hip-Hop"
+   },
+   "presetJazz": {
+      "message": "Jazz"
+   },
+   "presetLatin": {
+      "message": "Latin"
+   },
+   "presetLoudness": {
+      "message": "Loudness"
+   },
+   "presetLounge": {
+      "message": "Lounge"
+   },
+   "presetPiano": {
+      "message": "Piano"
+   },
+   "presetPop": {
+      "message": "Pop"
+   },
+   "presetRnb": {
+      "message": "Rnb"
+   },
+   "presetRock": {
+      "message": "Rock"
+   },
+   "presetSmallSpeakers": {
+      "message": "Small Speakers"
+   },
+   "presetSpokenWord": {
+      "message": "Spoken Word"
+   },
+   "presetTrebleBooster": {
+      "message": "Treble Booster"
+   },
+   "presetTrebleReducer": {
+      "message": "Treble Reducer"
+   },
+   "presetVocalBooster": {
+      "message": "Vocal Booster"
+   },
+   "ratioLabel": {
+      "message": "Ratio"
+   },
+   "releaseLabel": {
+      "message": "auslösung"
+   },
+   "saveVolumeWithPreset": {
+      "message": "Volume mit Voreinstellung speichern"
+   },
+   "short_name": {
+      "message": "Audio Equalizer für Chrome™"
+   },
+   "thresholdLabel": {
+      "message": "Schwelle"
+   },
+   "title": {
+      "message": "Equalizer"
+   }
+}
